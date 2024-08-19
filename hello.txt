@@ -1,0 +1,1 @@
+this is in write mode we are from sjmthis is an append mode
